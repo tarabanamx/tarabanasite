@@ -373,7 +373,7 @@ video {
   ul.submenu
   li.active
   a {
-  color: #5146ae !important;
+  color: #a9ae46 !important;
 }
 .header-item
   .header-menu
@@ -396,7 +396,7 @@ video {
   li:hover
   a {
   padding-left: 30px;
-  color: #7560eb !important;
+  color: #eb60db !important;
 }
 .header-item
   .header-menu
@@ -581,7 +581,7 @@ video {
   li:hover
   a {
   padding-left: 30px;
-  color: #7560eb !important;
+  color: #60eb69 !important;
 }
 .header-item
   .header-menu
@@ -683,7 +683,7 @@ video {
   a::before {
   width: 0;
   height: 2px;
-  background: #5146ae;
+  background: #deddea;
   bottom: -32px;
   left: auto;
   right: 0;
@@ -725,7 +725,7 @@ video {
   .main-menu-area
   ul.main-menu
   a.active {
-  color: #5146ae;
+  color: #e0deec;
 }
 .header-item .herder-icon ul.search-cart {
   margin: 0;
@@ -926,7 +926,7 @@ video {
   .cart-btn
   a
   i:hover {
-  color: #5146ae;
+  color: #ae46a5;
 }
 .header-item
   .herder-icon
